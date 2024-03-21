@@ -1,4 +1,4 @@
-# ABCD-mission
+# ABCD-mission 202415041 한정규
 
 #람다 활용
 
